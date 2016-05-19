@@ -1,0 +1,44 @@
+body {
+background-color: #00AFF0;
+font-family: "Chalkduster"; 
+}
+#navigation {
+	padding: 0;
+	margin: 0;
+	}
+#navigation li {
+	display: inline;
+	float: left;
+	} 
+/* 
+This is my css for my navigation bar
+*/
+#navigation a, #navigation a:visited {
+	display: block;
+	width: 11.5em;
+	border: 3px single #400080;
+	font-family: arial, verdana, sans-serif;
+	font-size: 0.8em;
+	text-align: center;
+	text-decoration:none;
+	background-color: #FFFFFF
+	}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: center;
+}
+
+li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 0px;
+    text-decoration: none;
+}
+

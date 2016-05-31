@@ -1,9 +1,9 @@
  body {
-background-color: #F7819F;
+background-color: #A9F5BC;
 font-family: "Georgia";
 }
 #navigation {
-	padding: 13px;
+	padding: 10px;
 	margin: 0;
 	}
 #navigation li {
@@ -12,7 +12,7 @@ font-family: "Georgia";
 	}
 	
 #big li {
-	font-size: 4em;
+	font-size: 2em;
 	}
 
 	/*
@@ -21,7 +21,7 @@ this is a comment
 	
 #navigation a, #navigation a:visited {
 	display: block; 
-	width: 15em;
+	width: 17.4em;
 	border: 6px double #ffffff;
 	font-family: arial, verdana, sans-serif;
 	font-size: 0.8em;
